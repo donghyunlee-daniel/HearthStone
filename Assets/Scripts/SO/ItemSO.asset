@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda9d2284d7870a42b573cda8acf3721, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: Luneco
+    attack: 2
+    health: 5
+    sprite: {fileID: -8889724304206743998, guid: fea3e4f7987e6f94489c3556a605956f, type: 3}
+    percent: 12
+  - name: Numo
+    attack: 1
+    health: 7
+    sprite: {fileID: -4855178247118869083, guid: 6424e5b689248a04695e5eaa26e0b47d, type: 3}
+    percent: 10
+  - name: Dinie
+    attack: 4
+    health: 4
+    sprite: {fileID: 8212243934860688624, guid: 189f2872d63902f48950e35697ed1134, type: 3}
+    percent: 10
+  - name: Raniel
+    attack: 1
+    health: 4
+    sprite: {fileID: -986269431848802616, guid: 8f5fcb05fbda8d84c86d9c507da55662, type: 3}
+    percent: 15
+  - name: Ludena
+    attack: 1
+    health: 3
+    sprite: {fileID: 6033015158452083991, guid: 3dd4927f84897664a8dfc0c0003f06f6, type: 3}
+    percent: 15
+  - name: Rico
+    attack: 3
+    health: 4
+    sprite: {fileID: -7957815128316257246, guid: 7356cc2808820c44bb360ad48f6beb9a, type: 3}
+    percent: 8
+  - name: Cherry
+    attack: 4
+    health: 5
+    sprite: {fileID: -5690490679025498215, guid: 6fb4682b890d45849913a115535a5842, type: 3}
+    percent: 10
+  - name: Kelt
+    attack: 3
+    health: 4
+    sprite: {fileID: 3352117543114240019, guid: 184b7610decc0ad4f96cdb8276cc7ed9, type: 3}
+    percent: 8
+  - name: Prina
+    attack: 3
+    health: 4
+    sprite: {fileID: -8124414658673018810, guid: c429db3680d47b64783803defe90d90f, type: 3}
+    percent: 8
+  - name: Tiger
+    attack: 4
+    health: 8
+    sprite: {fileID: -394916818267346488, guid: 03950be401627554db2cae2fa09a717c, type: 3}
+    percent: 4
